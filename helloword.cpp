@@ -1,5 +1,5 @@
 #include<iosteam>
 using namespace std;
 int main()
-{ cout<<"Hell word"<<endl;
+{ cout<<"你 好！！"<<endl;
 }
